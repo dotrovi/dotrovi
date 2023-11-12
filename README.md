@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorldgreen-unscreen.gif" width="100">
+  <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorldgreen-unscreen.gif" width="500">
 </div>
 
 
