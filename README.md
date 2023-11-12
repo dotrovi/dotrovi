@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <h1> ### Hi there 👋 ### </h1>
+  <h1> I'm Ivor Barrie Jaffery </h1>
   <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorld.gif" width="200">
 </div>
 
