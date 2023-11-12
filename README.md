@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <h1> ### Hi there 👋 ### </h1>
-  <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorld.gif" width="500">
+  <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorld.gif" width="200">
 </div>
 
 
