@@ -1,11 +1,5 @@
-
-<div align="center">
-  <h1>Hi there 👋</h1>
-  <h2>I'm Ivor Barrie Jaffery</h2>
-</div>
-
-
 <div id="header" align="center">
+  <h1>Hi, I'm Ivor Barrie Jaffery👋</h1>
   <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorld.gif" width="200">
   <br><br>
   <a href="https://github.com/dotrovi/UTM-e-Portfolio">UTM e-Portfolio</a>
