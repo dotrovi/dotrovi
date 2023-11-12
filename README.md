@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/helloworld-vCRRBlzVICTRZxE718" width="100">
+  <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorldgreen-unscreen.gif" width="100">
 </div>
+
+
 <!--
 **dotrovi/dotrovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
