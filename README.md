@@ -5,6 +5,10 @@
   <img src="https://github.com/dotrovi/dotrovi/blob/main/HelloWorld.gif" width="200">
 </div>
 
+- 😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering
+- ⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL
+
+
 
 <!--
 **dotrovi/dotrovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
