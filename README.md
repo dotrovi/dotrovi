@@ -6,8 +6,10 @@
 </div>
 <br><br>
 <div align="center">
-😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering
-⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL
+  <img src="https://github.com/dotrovi/dotrovi/blob/main/AboutMe.gif" width="300">
+  😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering
+  <br>
+  ⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL
 </div>
 
 
