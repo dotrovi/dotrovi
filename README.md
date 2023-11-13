@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1></h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=5000&color=EFAA91&center=true&random=false&width=435&lines=Hi%2C+I'm+Ivor+Barrie+Jaffery%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+  <a href="https://git.io/typing-svg"><h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=5000&color=EFAA91&center=true&random=false&width=435&lines=Hi%2C+I'm+Ivor+Barrie+Jaffery%F0%9F%91%8B" alt="Typing SVG" /></h1></a>
   <img src="https://github.com/dotrovi/dotrovi/blob/main/WelcomeToMyProfileV3(RedPastel).gif" width="250">
   <br><br>
   <a href="https://github.com/dotrovi/UTM-e-Portfolio">UTM e-Portfolio</a>
