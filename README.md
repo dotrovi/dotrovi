@@ -5,9 +5,10 @@
   <a href="https://github.com/dotrovi/UTM-e-Portfolio">UTM e-Portfolio</a>
 </div>
 <br><br>
-
-- 😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering
-- ⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL
+<div align="center">
+😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering
+⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL
+</div>
 
 
 
