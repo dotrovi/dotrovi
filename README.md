@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://github.com/dotrovi/dotrovi/blob/main/AboutMe.gif" width="300">
   <p>😄 First year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering</p>
-  <br>
   <p>⚡ Currently doing internship for AIROST Club: An untitled online quiz website built on PHP and SQL</p>
 </div>
 
