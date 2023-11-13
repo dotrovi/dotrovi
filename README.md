@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I'm Ivor Barrie Jaffery👋</h1>
-  <img src="https://github.com/dotrovi/dotrovi/blob/main/WelcomeToMyProfileV2.gif" width="300">
+  <img src="https://github.com/dotrovi/dotrovi/blob/main/WelcomeToMyProfileV2.gif" width="100">
   <br><br>
   <a href="https://github.com/dotrovi/UTM-e-Portfolio">UTM e-Portfolio</a>
 </div>
