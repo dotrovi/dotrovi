@@ -8,7 +8,7 @@
 <div align="center">
   <img src="images/AboutMeHeader.gif" width="100">
   <p>😄 Second year undergraduate at Universiti Teknologi Malaysia pursuing degree in Software Engineering</p>
-  <p>🌱 Beginner in the world of programming and familiar with a few languages, including C++ and HTML</p>
+  <p>🌱 Beginner in the world of programming and familiar with a few languages, including C++</p>
   <p>⚡ Learning programming</p>
 </div>
 
